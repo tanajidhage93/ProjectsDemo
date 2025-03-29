@@ -1,3 +1,3 @@
 # ProjectsDemo
-This is my Project Demo Repository
+This is my Project Demo Repository.
 Author - Tanaji Dhage
